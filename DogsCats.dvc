@@ -1,5 +1,5 @@
 outs:
-    - md5: 031739421adf807228c6cffb56e252ba.dir
-      size: 90076565
+    - md5: d4bffcf4b39d1a537ee762320ba979a8.dir
+      size: 92606719
       path: DogsCats
-      nfiles: 4000
+      nfiles: 4100
